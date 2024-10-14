@@ -26,7 +26,7 @@ const check = () => {
             return winner; // Qalib dəyərini qaytarır
         }
     }
-    return null; // Əgər qalib yoxdursa, null qaytarır
+    return 'yoxdur'; // Əgər qalib yoxdursa, null qaytarır
 }
 
 
