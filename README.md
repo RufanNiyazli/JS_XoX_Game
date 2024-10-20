@@ -62,6 +62,5 @@ Layihə hər hansı bir xüsusi mühit və ya quraşdırma tələb etmir. Sadəc
 Hər hansı bir sual və ya tövsiyə üçün mənimlə əlaqə saxlaya bilərsiniz:  
 **Email:** developerx73@gmail.com
 
----
 
-Bu sadə **README** faylı ilə layihən haqqında aydın və qısa məlumatlar vermiş olursan. Əgər əlavə etmək istədiyin bir şey varsa, məmnuniyyətlə kömək edərəm!
+
